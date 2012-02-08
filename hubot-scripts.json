@@ -1,1 +1,13 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+    "cowsay.coffee",
+    "google.coffee",
+    "octocat.coffee",
+    "penny-arcade.coffee",
+    "ping.coffee",
+    "pypi.coffee",
+    "rageface.coffee",
+    "tweet.coffee",
+    "shipit.coffee",
+    "shorten.coffee",
+    "yomama.coffee",
+]
